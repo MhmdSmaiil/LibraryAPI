@@ -7020,11 +7020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TechnoCian\\source\\repos\\Library.Identity\\Library.Identity.csproj",
+      "projectUniqueName": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Identity\\Library.Identity.csproj",
       "projectName": "Library.Identity",
-      "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library.Identity\\Library.Identity.csproj",
+      "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Identity\\Library.Identity.csproj",
       "packagesPath": "C:\\Users\\TechnoCian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TechnoCian\\source\\repos\\Library.Identity\\obj\\",
+      "outputPath": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

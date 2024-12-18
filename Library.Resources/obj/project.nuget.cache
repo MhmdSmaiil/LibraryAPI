@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yMTAwWWRIHY=",
+  "dgSpecHash": "jZ8Z8PiPb6I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TechnoCian\\source\\repos\\Library.Resources\\Library.Resources.csproj",
+  "projectFilePath": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Resources\\Library.Resources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TechnoCian\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\TechnoCian\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

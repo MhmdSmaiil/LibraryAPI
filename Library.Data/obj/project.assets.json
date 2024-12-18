@@ -12181,11 +12181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TechnoCian\\source\\repos\\Library.Data\\Library.Data.csproj",
+      "projectUniqueName": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Data\\Library.Data.csproj",
       "projectName": "Library.Data",
-      "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library.Data\\Library.Data.csproj",
+      "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Data\\Library.Data.csproj",
       "packagesPath": "C:\\Users\\TechnoCian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TechnoCian\\source\\repos\\Library.Data\\obj\\",
+      "outputPath": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -12207,11 +12207,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\TechnoCian\\source\\repos\\Library.Identity\\Library.Identity.csproj": {
-              "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library.Identity\\Library.Identity.csproj"
+            "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Identity\\Library.Identity.csproj": {
+              "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Identity\\Library.Identity.csproj"
             },
-            "C:\\Users\\TechnoCian\\source\\repos\\Library.Resources\\Library.Resources.csproj": {
-              "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library.Resources\\Library.Resources.csproj"
+            "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Resources\\Library.Resources.csproj": {
+              "projectPath": "C:\\Users\\TechnoCian\\source\\repos\\Library\\Library.Resources\\Library.Resources.csproj"
             }
           }
         }
