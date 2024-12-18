@@ -19,7 +19,7 @@ var authority = builder.Configuration.GetSection("JwtConfig").GetValue<string>("
 var dbConnection = builder.Configuration.GetConnectionString("DefaultConnection") ?? string.Empty;
 
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+    options.UseSqlServer(dbConnection,
     b => b.MigrationsAssembly("LibraryAPI")));
 
 builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = true)
