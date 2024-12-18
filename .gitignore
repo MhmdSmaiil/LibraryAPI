@@ -4,3 +4,19 @@
 
 *.vsidx
 /LibraryAPI/LibraryAPI.csproj
+/LibraryAPI/.vs/LibraryAPI/DesignTimeBuild/.dtbcache.v2
+/LibraryAPI/.vs/LibraryAPI/v17/.futdcache.v2
+/LibraryAPI/.vs/LibraryAPI/v17/.suo
+/LibraryAPI/.vs/LibraryAPI/v17/DocumentLayout.backup.json
+/LibraryAPI/.vs/LibraryAPI/v17/DocumentLayout.json
+/LibraryAPI/.vs/ProjectEvaluation/libraryapi.metadata.v9.bin
+/LibraryAPI/.vs/ProjectEvaluation/libraryapi.projects.v9.bin
+/LibraryAPI/.vs/ProjectEvaluation/libraryapi.strings.v9.bin
+/LibraryAPI/obj/Debug/net9.0/LibraryAPI.AssemblyInfo.cs
+/LibraryAPI/obj/Debug/net9.0/LibraryAPI.AssemblyInfoInputs.cache
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/Library.Data/obj/Debug/net9.0/Library.Data.AssemblyInfo.cs
+/Library.Data/obj/Debug/net9.0/Library.Data.AssemblyInfoInputs.cache
+/Library.Resources/obj/Debug/net9.0/Library.Resources.AssemblyInfo.cs
+/Library.Resources/obj/Debug/net9.0/Library.Resources.AssemblyInfoInputs.cache
